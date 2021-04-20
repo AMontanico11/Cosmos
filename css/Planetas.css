@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Tittle{
+    text-align: center;
+    font-size: 40px;
+    color:black ;
+    position: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+.Planets{
+    margin: 40px;
+    text-align: center;
+}
+.Planet{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+.Planet:hover{
+    background-color: rgb(10, 161, 221);
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.TITTLE{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(246, 248, 248);
+    margin: 50px;
+    font-family: arial;
+    
+}
+
+.Luna{
+    margin: 60px;
+    text-align: center;
+}
+.Luna_segia{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    border: rgb(255, 255, 255) 1px solid;
+    border-radius: 20px;
+}
+.Luna_segia:hover{
+    background-color: cadetblue;
+}
